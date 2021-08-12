@@ -1,0 +1,14 @@
+pipwin
+flask==1.1.4
+flask-login
+flask-sqlalchemy
+flask-httpauth
+bcrypt
+flask-bcrypt
+flask-migrate==2.5.3
+flask-script==2.0.6
+python-dotenv
+pillow
+flask-cors
+psycopg2==2.8.6
+gunicorn
